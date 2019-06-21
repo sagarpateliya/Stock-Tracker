@@ -1,0 +1,11 @@
+nav {
+  border: 2px solid black;
+  color: red;
+  background-color: rgb(178, 178, 218);
+  font-style: italic;
+  text-align: center;
+  margin-top: 20px;
+  font-weight: 500;
+  margin-left: 10px;
+  margin-right: 10px;
+}

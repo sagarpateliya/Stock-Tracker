@@ -1,0 +1,15 @@
+.ManageList {
+  height: 50px;
+  width: 500px;
+  border: 2px solid black;
+  margin-top: 20px;
+  margin-left: 20px;
+  color: red;
+  font-weight: 1000;
+  padding-left: 10px;
+}
+
+button {
+  float: right;
+  margin-top: 15px;
+}
